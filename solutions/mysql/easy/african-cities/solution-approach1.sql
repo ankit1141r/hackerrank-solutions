@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-08-07, 11:53 p.m.
+-- Submitted   2026-08-08, 01:02 a.m.
 -- ──────────────────────────────────────────────────
 
 select ci.name 
